@@ -8,3 +8,5 @@ while (K < INDICE) {
 }
 
 console.log(SOMA);
+
+//Número final da soma é 91
